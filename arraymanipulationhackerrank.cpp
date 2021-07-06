@@ -1,5 +1,3 @@
-/*Array Manipulation Hackerrank solved by Jayneel at 19:45, 5-7-21 with the help of new concept on YT video course of CP
-New Method learnt about a different usage of prefix sum*/
 #include <bits/stdc++.h>
 using namespace std;
 
