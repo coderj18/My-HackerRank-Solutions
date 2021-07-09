@@ -1,5 +1,3 @@
-/*Camel Case problem on Hackerrank solved by Jayneel 16:44 8-7-21
-string and ascii basics*/
 #include<bits/stdc++.h>
 using namespace std;
 
